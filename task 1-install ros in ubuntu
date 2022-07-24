@@ -1,0 +1,8 @@
+# task1-2
+Step 1: Install VirtualBox
+Step 2: Configurating the VirtualMachine
+Step 3: Booting and Installing Ubuntu on VirtualBox
+Step 4: Install ROS Kinetic Kame
+Environment setup
+Dependencies for building packages
+Initialize rosdep
